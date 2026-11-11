@@ -1,0 +1,29 @@
+{
+  "image2.png": {
+    "tipo_elemento": "figura",
+    "numero": null,
+    "titulo": "Curva de aprendizaje",
+    "variable_x": null,
+    "variable_y": "Tiempo de producción / Coste de aprendizaje",
+    "unidades": null,
+    "valor_maximo": null
+  },
+  "image4.jpg": {
+    "tipo_elemento": "otro",
+    "numero": "1",
+    "titulo": "EJERCICIO RESUELTO – TIEMPO (MRUA)",
+    "variable_x": null,
+    "variable_y": null,
+    "unidades": "m/s, m/s², s",
+    "valor_maximo": 28
+  },
+  "image1.png": {
+    "tipo_elemento": "figura",
+    "numero": null,
+    "titulo": "Data Center Network Diagram",
+    "variable_x": null,
+    "variable_y": null,
+    "unidades": null,
+    "valor_maximo": null
+  }
+}

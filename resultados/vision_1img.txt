@@ -1,0 +1,118 @@
+PREGUNTA: ¿En cuánto tiempo cambia su velocidad el vehículo del ejercicio y qué fórmula se usa para calcularlo? Explica el procedimiento paso a paso.
+IMAGENES: ['imagenes/image4.jpg']
+
+RESPUESTA:
+Basado en la imagen proporcionada, aquí tienes la explicación paso a paso del ejercicio resuelto:
+
+---
+
+### **Pregunta:**
+¿En qué tiempo cambia su velocidad un vehículo de 15 m/s a 28 m/s, cuando su aceleración es de 1.5 m/s²?
+
+---
+
+## ✅ **Respuesta final:**
+**El vehículo cambia su velocidad en `t = 8.67 segundos`.**
+
+---
+
+## 📌 **Fórmula utilizada:**
+
+La fórmula base para el **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** que relaciona velocidad inicial, final, aceleración y tiempo es:
+
+> **v_f = v_o + a · t**
+
+Donde:
+- **v_f** = velocidad final
+- **v_o** = velocidad inicial
+- **a** = aceleración
+- **t** = tiempo
+
+Para despejar el **tiempo (t)**, se reorganiza la fórmula:
+
+> **t = (v_f - v_o) / a**
+
+Esta es la fórmula que se usa directamente para calcular el tiempo en este problema.
+
+---
+
+## 🔍 **Procedimiento paso a paso:**
+
+### **Paso 1: Identificar los datos dados**
+De la imagen, extraemos:
+- Velocidad inicial: **v_o = 15 m/s**
+- Velocidad final: **v_f = 28 m/s**
+- Aceleración: **a = 1.5 m/s²**
+- Tiempo: **t = ? (lo que buscamos)**
+
+---
+
+### **Paso 2: Aplicar la fórmula despejada**
+
+Usamos:
+> **t = (v_f - v_o) / a**
+
+Sustituimos los valores:
+> **t = (28 m/s - 15 m/s) / 1.5 m/s²**
+
+---
+
+### **Paso 3: Realizar la resta en el numerador**
+
+> 28 m/s – 15 m/s = **13 m/s**
+
+Entonces:
+> **t = 13 m/s ÷ 1.5 m/s²**
+
+---
+
+### **Paso 4: Dividir para obtener el tiempo**
+
+> t = 13 / 1.5 = **8.666... s**
+
+Redondeando a dos decimales:
+> **t ≈ 8.67 s**
+
+*(Nota: En la imagen se muestra “8.67 s” con una línea roja, indicando que es la respuesta correcta.)*
+
+---
+
+### **Paso 5: Verificar unidades (opcional pero recomendado)**
+
+- Numerador: m/s
+- Denominador: m/s²
+- Resultado: (m/s) / (m/s²) = **segundos (s)** → ¡Correcto!
+
+---
+
+## 🧠 **Explicación conceptual:**
+
+La aceleración es la tasa de cambio de la velocidad por unidad de tiempo. Si sabemos cuánto cambió la velocidad (de 15 a 28 m/s → Δv = 13 m/s) y a qué ritmo cambió (1.5 m/s cada segundo), entonces el tiempo necesario es simplemente:
+
+> **Tiempo = Cambio total de velocidad / Aceleración**
+
+Es decir:  
+> **t = Δv / a**
+
+Esto es exactamente lo que se hizo en el ejercicio.
+
+---
+
+## ✍️ **Resumen visual del procedimiento (como en la imagen):**
+
+```
+Fórmula original:     v_f = v_o + a·t
+Despejando t:         t = (v_f - v_o) / a
+Sustituyendo:         t = (28 - 15) / 1.5
+Calculando:           t = 13 / 1.5
+Resultado:            t = 8.67 s
+```
+
+---
+
+✅ **Conclusión:**  
+El vehículo tarda **8.67 segundos** en cambiar su velocidad de 15 m/s a 28 m/s con una aceleración constante de 1.5 m/s². La fórmula clave es **t = (v_f - v_o) / a**, derivada de la ecuación fundamental del MRUA.
+
+--- 
+
+📌 *Nota: La imagen muestra claramente este proceso con tachaduras y flechas, guiando al estudiante desde la fórmula general hasta el resultado numérico.*

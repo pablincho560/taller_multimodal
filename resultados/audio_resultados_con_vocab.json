@@ -1,0 +1,36 @@
+[
+  {
+    "archivo": "audio1.ogg",
+    "hablante": "Integrante A",
+    "condicion": "sin ruido",
+    "dijo": "REEMPLAZA con la frase exacta que dijiste",
+    "texto": "El área de un círculo es igual a pi por radio al cuadrado Si de pronto queremos calcular el volumen es 3 cuartos de pi por radio al cuadrado",
+    "duracion": 13.1,
+    "respuesta": "Incorrecto. El volumen de una esfera es $\\frac{4}{3}\\pi r^3$ (radio al cubo, no al cuadrado)."
+  },
+  {
+    "archivo": "audio2.ogg",
+    "hablante": "Integrante B",
+    "condicion": "sin ruido",
+    "dijo": "REEMPLAZA",
+    "texto": "Entre los principales servicios que tenemos en una red tenemos el servicio DHCP que asigna automáticamente direcciones IPv4 o también IPv6 a los diferentes dispositivos asociados dentro de esa red",
+    "duracion": 16.6,
+    "respuesta": "Correcto. El DHCP (Dynamic Host Configuration Protocol) automatiza la asignación de direcciones IP, máscaras de subred, gateway y servidores DNS, reduciendo la carga administrativa y evitando conflictos de direcciones en la red."
+  },
+  {
+    "archivo": "audio3.ogg",
+    "hablante": "Integrante A",
+    "condicion": "con ruido",
+    "dijo": "REEMPLAZA",
+    "error": "429: Error code: 429 - {'error': {'message': \"Request too large for model `qwen/qwen3.8-27b` in organization `org_01kzrbzfese5rv8beek82xxdd3` service tier `on_demand` on output tokens per minute (OTPM): Limit 1000, Requested 1262. The request's expected output tokens exceed the enforced limit; reduce max_tokens (or the request's expected output) and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing\", 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "archivo": "audio4.ogg",
+    "hablante": "Integrante B",
+    "condicion": "sin ruido",
+    "dijo": "REEMPLAZA",
+    "texto": "Algunas herramientas de análisis de datos son Canine, Excel, Power BI, SAS, RStudio, Automate, entre otras",
+    "duracion": 12.7,
+    "respuesta": "La afirmación es incorrecta: **Canine** y **Automate** no son herramientas estándar de análisis de datos. Las válidas son Excel, Power BI, SAS y RStudio."
+  }
+]

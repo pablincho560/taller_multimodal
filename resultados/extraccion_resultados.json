@@ -1,0 +1,35 @@
+{
+  "image2.png": {
+    "data": {
+      "tipo_elemento": "figura",
+      "numero": null,
+      "titulo": "CURVA DE APRENDIZAJE",
+      "variable_x": "PERDIDAS, BREAK EVEN, GANANCIAS, PERDIDAS",
+      "variable_y": "TIEMPO DE PRODUCCIÓN / COSTE DE APRENDIZAJE",
+      "unidades": null,
+      "valor_maximo": null
+    }
+  },
+  "image4.jpg": {
+    "data": {
+      "tipo_elemento": "otro",
+      "numero": null,
+      "titulo": "Determine: Tiempo",
+      "variable_x": null,
+      "variable_y": null,
+      "unidades": "m/s, m/s², s",
+      "valor_maximo": 28
+    }
+  },
+  "image1.png": {
+    "data": {
+      "tipo_elemento": "otro",
+      "numero": null,
+      "titulo": "Data Center Network Diagram",
+      "variable_x": null,
+      "variable_y": null,
+      "unidades": null,
+      "valor_maximo": null
+    }
+  }
+}

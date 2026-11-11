@@ -1,0 +1,10 @@
+[
+  {"archivo": "audio1.ogg", "hablante": "Integrante A", "condicion": "sin ruido",
+   "dijo": "REEMPLAZA con la frase exacta que dijiste"},
+  {"archivo": "audio2.ogg", "hablante": "Integrante B", "condicion": "sin ruido",
+   "dijo": "REEMPLAZA"},
+  {"archivo": "audio3.ogg", "hablante": "Integrante A", "condicion": "con ruido",
+   "dijo": "REEMPLAZA"},
+  {"archivo": "audio4.ogg", "hablante": "Integrante B", "condicion": "sin ruido",
+   "dijo": "REEMPLAZA"}
+]
